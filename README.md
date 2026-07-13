@@ -7,15 +7,15 @@ I'm a Computer Science student passionate about Artificial Intelligence, Backend
 I'm currently working on a real AI-powered project while continuously improving my programming and software engineering skills. I enjoy learning by building practical applications and sharing my progress on GitHub.
 
 
-## 🚀 Currently Working On
+##  Currently Working On
 
-- 🤖 Building an AI-powered Video Call Assistant
-- 🧠 Learning AI Engineering
-- ⚡ Developing backend applications with FastAPI
-- 📚 Expanding my knowledge of Machine Learning and Large Language Models (LLMs)
+-  Building an AI-powered Video Call Assistant
+-  Learning AI Engineering
+-  Developing backend applications with FastAPI
+-  Expanding my knowledge of Machine Learning and Large Language Models (LLMs)
 
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Python
 - FastAPI
@@ -56,15 +56,15 @@ I'm currently working on a real AI-powered project while continuously improving 
 - project managment system
 - calculator
 
-## 🌟 Fun Fact
+##  Fun Fact
 
 I believe the best way to learn is by building real projects.
 
 
-## 📫 Connect With Me
+## Connect With Me
 
 - GitHub: https://github.com/lidiyamergiya
 - LinkedIn: https://www.linkedin.com/in/lidiyamergiya
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
 

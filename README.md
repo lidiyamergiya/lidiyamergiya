@@ -44,7 +44,7 @@ Computer Science student and Software Development Intern aspiring to become an A
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lidiyamergiya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://mail.google.com/mail/u/1/#inbox"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:lidiyamergiya5@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ### 📊 GitHub Stats
@@ -53,7 +53,8 @@ Computer Science student and Software Development Intern aspiring to become an A
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=lidiyamergiya&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=lidiyamergiya&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
- 🔥 GitHub Streak
+
+🔥<b> GitHub Streak</b>
 
 <p align="center">
   <img
@@ -61,6 +62,7 @@ Computer Science student and Software Development Intern aspiring to become an A
     alt="GitHub Streak Stats"
   />
 </p>
+
 
 ### 📈 Contribution Graph
 
@@ -76,3 +78,4 @@ Computer Science student and Software Development Intern aspiring to become an A
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/lidiyamergiya">lidiyamergiya</a></i></p>
+

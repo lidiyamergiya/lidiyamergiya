@@ -54,15 +54,27 @@ Computer Science student and Software Development Intern aspiring to become an A
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=lidiyamergiya&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
- ### 🔥 GitHub Streak
+### 🔥 GitHub Streak
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=lidiyamergiya&theme=dark&hide_border=false&background=151515&ring=ff9900&fire=ff9900&currStreakLabel=ff9900&sideLabels=ffffff&dates=999999"
-    alt="GitHub Streak Stats"
-  />
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <h2>124</h2>
+      <p>Total Contributions</p>
+      <sub>Aug 11, 2025 - Present</sub>
+    </td>
+    <td align="center" width="200">
+      <h2>🔥 1</h2>
+      <p><b>Current Streak</b></p>
+      <sub>Sep 11</sub>
+    </td>
+    <td align="center" width="200">
+      <h2>6</h2>
+      <p>Longest Streak</p>
+      <sub>Jul 27 - Aug 1</sub>
+    </td>
+  </tr>
+</table>
 
 
 ### 📈 Contribution Graph

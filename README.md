@@ -54,7 +54,7 @@ Computer Science student and Software Development Intern aspiring to become an A
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=lidiyamergiya&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-🔥<h3> GitHub Streak</h3>
+🔥 <h3> GitHub Streak</h3>
 
 <p align="center">
   <img

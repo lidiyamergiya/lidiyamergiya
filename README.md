@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Computer Science student and Software Development Intern aspiring to become an AI Engineer. I build practical software, explore AI, and learn by building.
+Computer Science student and Software Development Intern aspiring to become an AI Engineer. I am building practical software, explore AI, and learn by building.
 
 🔭 &nbsp;I'm currently working on **Building practical software projects and exploring AI-powered solutions.**  
 🌱 &nbsp;I'm currently learning **Python, AI/ML, backend development, and software engineering.**  
